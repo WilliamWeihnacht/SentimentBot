@@ -9,3 +9,9 @@ More information can be found at https://praw.readthedocs.io/en/latest/getting_s
 Output:
 
 Running this script will prompt you for a subreddit and post limit. Upon entering these you will get a pie chart of how many hot posts on the desired subreddit are positive, negative, or neutral. Afterwards two wordclouds will be displayed, one positive, one negative, showing the most popular words in their respective categories.
+
+Here is an example of a positive one created using the parameters: news, 3000 on 10/3/2019.
+![positive wordcloud](./p.png)
+
+Here is the corresponding negative wordcloud.
+![negative wordcloud](./n.png)
